@@ -1,0 +1,24 @@
+[submodule "VulkanRTX/ThirdParty/spdlog"]
+	path = VulkanRTX/ThirdParty/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "VulkanRTX/ThirdParty/glfw"]
+	path = VulkanRTX/ThirdParty/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "VulkanRTX/ThirdParty/glm"]
+	path = VulkanRTX/ThirdParty/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "VulkanRTX/ThirdParty/assimp"]
+	path = VulkanRTX/ThirdParty/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "VulkanRTX/ThirdParty/stb"]
+	path = VulkanRTX/ThirdParty/stb
+	url = https://github.com/nothings/stb.git
+[submodule "VulkanRTX/ThirdParty/imgui"]
+	path = VulkanRTX/ThirdParty/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "VulkanRTX/ThirdParty/DearImGui"]
+	path = VulkanRTX/ThirdParty/DearImGui
+	url = https://github.com/ocornut/imgui.git
+[submodule "VulkanRTX/ThirdParty/KTX-Software"]
+	path = VulkanRTX/ThirdParty/KTX-Software
+	url = https://github.com/KhronosGroup/KTX-Software.git

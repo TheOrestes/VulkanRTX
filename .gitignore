@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+/.vs/Playground/v16
+/bin/Debug-x64/Playground
+/bin-int/Debug-x64/Playground
+/bin/Release-x64/Playground
+/bin-int/Release-x64/Playground
+/PlaygroundRTX/Textures/.mayaSwatches
+
+# Compiled Shaders
+/PlaygroundRTX/Shaders/*.spv
+/.vs
+*.suo
+bin
+bin-int
